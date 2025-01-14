@@ -44,5 +44,5 @@ proxychains4 python3 your_script.py
 ```
 Kali Linux
 ```bash
-proxychain4 python3 your_script.py
+proxychains4 python3 your_script.py
 
