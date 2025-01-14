@@ -7,7 +7,8 @@
 - **Continuous Monitoring**: The active proxies are continuously monitored and rotated, updating the configuration file for `proxychains`.
 
 ![IMG_20250114_123736](https://github.com/user-attachments/assets/4a750e26-8009-4f77-b095-aa0e8e35aa57)
-
+1 PROXY SESSION proxy-rotation.py 
+NEW SESSION proxychains4 python3 your_script.py
 
 ## Prerequisites
 
