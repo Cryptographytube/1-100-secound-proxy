@@ -25,4 +25,5 @@ pip install requests
 python proxy-rotation.py
 
 ```
+2 SESSION ON IP ENJOY 😊😊
 proxychains4 python3 your_script.py
