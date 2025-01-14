@@ -22,7 +22,7 @@
 git clone https://github.com/your-username/proxy-rotation-script.git
 cd proxy-rotation-script
 pip install requests
-python proxy-rotation.py
+python3 proxy-rotation.py
 
 ```
 2 SESSION ON IP ENJOY 😊😊
