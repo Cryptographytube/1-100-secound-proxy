@@ -19,3 +19,5 @@
 ```bash
 git clone https://github.com/your-username/proxy-rotation-script.git
 cd proxy-rotation-script
+pip install requests
+python proxy-rotation.py
