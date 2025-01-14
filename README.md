@@ -27,13 +27,22 @@ python3 proxy-rotation.py
 ```
 
 Environment-Specific Commands
-Termux	python3 proxy_rotation.py
+Termux	
+```bash
+python3 proxy_rotation.py
 
-Environment	Command to Run Proxy Rotation Script
-Kali Linux	python3 proxy_rotation.py
+```
+Environment	Command to Run Proxy Rotation Script Kali Linux
+```bash
+python3 proxy_rotation.py
 
+```
 Environment	Command to Use Proxychains4
-Termux	proxychains python3 your_script.py
-
-Kali Linux	proxychain4s python3 your_script.py
+Termux proxychains
+```bash
+proxychains4 python3 your_script.py
+```
+Kali Linux
+```bash
+proxychain4s python3 your_script.py
 
