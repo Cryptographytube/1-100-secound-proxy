@@ -21,3 +21,4 @@ git clone https://github.com/your-username/proxy-rotation-script.git
 cd proxy-rotation-script
 pip install requests
 python proxy-rotation.py
+![IMG_20250114_123736](https://github.com/user-attachments/assets/e864cf71-7b42-4a17-bde9-4e0698b3d7c3)
