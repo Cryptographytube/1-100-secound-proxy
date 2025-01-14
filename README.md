@@ -5,6 +5,8 @@
 - **Proxy Rotation**: Once a proxy is verified as active, it will be used in the rotation. Active proxies are set periodically in the `proxychains` configuration.
 - **Environment Support**: The script supports both Termux (Android) and Kali Linux environments.
 - **Continuous Monitoring**: The active proxies are continuously monitored and rotated, updating the configuration file for `proxychains`.
+![IMG_20250114_123736](https://github.com/user-attachments/assets/4a750e26-8009-4f77-b095-aa0e8e35aa57)
+
 
 ## Prerequisites
 
@@ -21,4 +23,5 @@ git clone https://github.com/your-username/proxy-rotation-script.git
 cd proxy-rotation-script
 pip install requests
 python proxy-rotation.py
-![IMG_20250114_123736](https://github.com/user-attachments/assets/e864cf71-7b42-4a17-bde9-4e0698b3d7c3)
+..
+
