@@ -25,5 +25,15 @@ pip install requests
 python3 proxy-rotation.py
 
 ```
-2 SESSION ON IP ENJOY 😊😊
-proxychains4 python3 your_script.py
+
+Environment-Specific Commands
+Termux	python3 proxy_rotation.py
+
+Environment	Command to Run Proxy Rotation Script
+Kali Linux	python3 proxy_rotation.py
+
+Environment	Command to Use Proxychains4
+Termux	proxychains python3 your_script.py
+
+Kali Linux	proxychain4s python3 your_script.py
+
